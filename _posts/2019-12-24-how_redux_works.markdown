@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How Redux Works"
-date:       2019-12-25 00:41:53 +0000
+date:       2019-12-24 19:41:54 -0500
 permalink:  how_redux_works
 ---
 
